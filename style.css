@@ -1,0 +1,57 @@
+
+
+h1{
+    text-decoration: underline;
+    color: blueviolet;
+    font-size: 4rem;
+    margin-left: 30rem;
+}
+
+
+
+.div input{
+    margin-left: 27rem;
+    font-size: larger;
+    border: 2px solid blueviolet;
+    box-shadow: 7px 9px 13px -2px rgba(0,0,0,0.75);
+}
+
+.add{
+    /* margin-left: 35px; */
+    font-size: larger;
+    border: 2px solid blueviolet;
+    box-shadow: 7px 9px 13px -2px rgba(0,0,0,0.75);
+    background-color: transparent;
+    color: blueviolet;
+    border-radius: 5px;
+    
+}
+
+.add:hover{
+    background-color: blueviolet;
+    color: white;
+}
+
+.div ul{
+    margin-left: 26rem;
+    font-size: 1.5rem;
+    color: darkred;
+    font-weight: 700;
+}
+
+.delete{
+    font-size: small;
+    border: 2px solid rgb(255, 0, 0);
+    box-shadow: 7px 9px 13px -2px rgba(0,0,0,0.75);
+    background-color: transparent;
+    color: rgb(255, 0, 0);
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    
+}
+
+.delete:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
